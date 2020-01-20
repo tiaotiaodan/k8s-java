@@ -1,8 +1,8 @@
 /*
-MySQL - 5.6.30-log : Database - test
+MySQL - 5.6.30-log : Database - java_demo
 */
-CREATE DATABASE IF NOT EXISTS `test`  DEFAULT CHARACTER SET utf8 ;
-USE `test`;
+CREATE DATABASE IF NOT EXISTS `java_demo`  DEFAULT CHARACTER SET utf8 ;
+USE `java_demo`;
 
 CREATE TABLE `user` (
   `id` INT(11) NOT NULL AUTO_INCREMENT,
